@@ -1,0 +1,12 @@
+{
+  "name": "AppTrincano",
+  "displayName": "AppTrincano",
+  "expo": {
+    "name": "AppTrincano",
+    "slug": "AppTrincano",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
